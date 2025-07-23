@@ -6,14 +6,13 @@ Decis users can access the agents and other Decis functions via an API endpoint.
 
 # Quickstart
 
-(You will need your Decis username and password)
-
 ## 1 - Create a set of session credentials
 
 Initiate the session
 ```
 code snippet
 ```
+(*Use your Decis username and password for initial authentication*)
 
 The response will include a ```sessin_id``` and ```access_token```
 
